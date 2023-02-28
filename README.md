@@ -10,8 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haoxiang14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haoxiang14&theme=dark&hide_border=false)<br/>
-[![Hao Xiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=haoxiang14)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haoxiang14&layout=compact&hide=html,jupyter%20notebook&langs_count=10) <br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
