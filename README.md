@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haoxiang14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haoxiang14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haoxiang14&theme=dark&layout=compact&hide=html,jupyter%20notebook&langs_count=10) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haoxiang14&theme=dark&layout=compact) <br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
