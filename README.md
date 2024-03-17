@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working as R&D Analyst and Discord Manager in APU Blockchain and Cryptocurrency Club (BCC)<br>👯 I’m looking to collaborate on  Blockchain and Web 3 Projects<br>🌱 I’m currently learning HTML, CSS, Javascript, Solidity and etc.<br>💬 Very passionate on Blockchain technology and Cryptocurrency<br>⚡ Fun fact: I love programming and trading
+🔭 I’m actively contribute to APU Blockchain and Cryptocurrency Club (BCC)
+<br>👯 I’m looking to collaborate on  Blockchain and Web 3 Projects
+<br> 🌱 I’m currently learning HTML, CSS, Javascript, Solidity and etc.
+<br>💬 Very passionate on Blockchain technology and Cryptocurrency
+<br>⚡ Fun fact: I love programming and trading
 
 
 ## 🌐 Socials:
